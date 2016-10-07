@@ -8,3 +8,4 @@
 - [Exercise  1.7](1_7.rkt)
 - [Exercise  1.8](1_8.rkt)
 - [Exercise  1.10](1_10.rkt)
+- [Exercise  1.11](1_11.rkt)
