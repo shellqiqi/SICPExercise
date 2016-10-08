@@ -1,4 +1,4 @@
-# SICPExercise
+# SICP Exercise
 
 ## Chapter 1
 
@@ -9,3 +9,9 @@
 - [Exercise  1.8](1_8.rkt)
 - [Exercise  1.10](1_10.rkt)
 - [Exercise  1.11](1_11.rkt)
+- [Exercise  1.12](1_12.rkt)
+- [Exercise  1.15](1_15.rkt)
+- [Exercise  1.16](1_16.rkt)
+- [Exercise  1.17](1_17.rkt)
+- [Exercise  1.18](1_18.rkt)
+- [Exercise  1.19](1_19.rkt)
