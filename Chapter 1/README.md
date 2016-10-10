@@ -20,3 +20,4 @@
 - [Exercise  1.30](1_30.rkt)
 - [Exercise  1.32.a](1_32_a.rkt)
 - [Exercise  1.32.b](1_32_b.rkt)
+- [Exercise  1.34](1_34.rkt)
