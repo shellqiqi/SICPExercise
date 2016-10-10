@@ -1,4 +1,5 @@
 #lang racket
+;; Example in 1.2.1
 ;; Factorial
 
 (define (! n)

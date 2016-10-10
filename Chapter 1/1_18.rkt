@@ -2,15 +2,12 @@
 ;; Exercise 1.18
 
 (define (multiply a n)
-  
+
   (define (double x)
     (+ x x))
-  
+
   (define (halve x)
     (/ x 2))
-
-  (define (even? x)
-    (= (remainder x 2) 0))
 
   (define (itr a n b)
     (cond ((= n 0) b)

@@ -15,3 +15,8 @@
 - [Exercise  1.17](1_17.rkt)
 - [Exercise  1.18](1_18.rkt)
 - [Exercise  1.19](1_19.rkt)
+- [Exercise  1.21](1_21.rkt)
+- [Exercise  1.29](1_29.rkt)
+- [Exercise  1.30](1_30.rkt)
+- [Exercise  1.32.a](1_32_a.rkt)
+- [Exercise  1.32.b](1_32_b.rkt)
