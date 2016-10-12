@@ -31,3 +31,4 @@
 - [Exercise  1.41](1_41.rkt)
 - [Exercise  1.42](1_42.rkt)
 - [Exercise  1.43](1_43.rkt)
+- [Exercise  1.44](1_44.rkt)
