@@ -7,5 +7,6 @@
 .#*.scm
 
 *.bak
+*.sh
 
 compiled

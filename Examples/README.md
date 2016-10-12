@@ -1,13 +1,19 @@
-# SICP Exercise
+# [SICP Exercise](../)
 
 ## Examples
 
-- [Square](square.rkt)
-- [Newton Sqrt](newton-sqrt.rkt)
+- [Average Damp](average-damp.rkt)
+- [Average](average.rkt)
 - [Factorial](factorial.rkt)
-- [Fibonacci Sequence](fib.rkt)
 - [Fast Expt](fast-expt.rkt)
-- [GCD](gcd.rkt)
-- [Prime Test](prime-test.rkt)
 - [Fermat Test](fermat-test.rkt)
+- [Fibonacci Sequence](fib.rkt)
+- [Fixed Point of Transform](fixed-point-of-transform.rkt)
+- [Fixed Point](fixed-point.rkt)
+- [GCD](gcd.rkt)
+- [Half Interval Method](half-interval-method.rkt)
+- [Newton Sqrt](newton-sqrt.rkt)
+- [Newtons Method](newtons-method.rkt)
+- [Prime Test](prime-test.rkt)
+- [Square](square.rkt)
 - [Sum](sum.rkt)

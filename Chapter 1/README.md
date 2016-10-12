@@ -1,4 +1,4 @@
-# SICP Exercise
+# [SICP Exercise](../)
 
 ## Chapter 1
 
@@ -21,3 +21,13 @@
 - [Exercise  1.32.a](1_32_a.rkt)
 - [Exercise  1.32.b](1_32_b.rkt)
 - [Exercise  1.34](1_34.rkt)
+- [Exercise  1.35](1_35.rkt)
+- [Exercise  1.36](1_36.rkt)
+- [Exercise  1.37.a](1_37_a.rkt)
+- [Exercise  1.37.b](1_37_b.rkt)
+- [Exercise  1.38](1_38.rkt)
+- [Exercise  1.39](1_39.rkt)
+- [Exercise  1.40](1_40.rkt)
+- [Exercise  1.41](1_41.rkt)
+- [Exercise  1.42](1_42.rkt)
+- [Exercise  1.43](1_43.rkt)
