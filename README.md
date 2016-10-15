@@ -4,7 +4,8 @@ The source code can be compiled by [Racket](http://www.racket-lang.org/). If not
 
 ## Exercises
 
-- [Chapter 1](/Chapter 1)
+- [Chapter 1](/Chapter1)
+- [Chapter 2](/Chapter2)
 
 ## Examples
 
