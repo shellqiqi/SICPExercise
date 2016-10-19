@@ -1,4 +1,4 @@
-# [SICP Exercise](../)
+# [SICP Exercise](https://github.com/shellqiqi/SICPExercise)
 
 ## Chapter 2
 
@@ -11,6 +11,7 @@
 - [Exercise  2.19](2_19.rkt)
 - [Exercise  2.20](2_20.rkt)
 - [Exercise  2.21](2_21.rkt)
+- [Exercise  2.23](2_23.rkt)
 - [Exercise  2.25](2_25.rkt)
 - [Exercise  2.26](2_26.rkt)
 - [Exercise  2.27](2_27.rkt)
