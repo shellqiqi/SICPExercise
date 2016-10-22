@@ -16,3 +16,7 @@
 - [Exercise  2.26](2_26.rkt)
 - [Exercise  2.27](2_27.rkt)
 - [Exercise  2.28](2_28.rkt)
+- [Exercise  2.30](2_30.rkt)
+- [Exercise  2.31](2_31.rkt)
+- [Exercise  2.32](2_32.rkt)
+- [Exercise  2.33](2_33.rkt)
