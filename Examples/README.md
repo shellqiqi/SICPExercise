@@ -12,6 +12,7 @@
 - [Fixed Point](fixed-point.rkt)
 - [GCD](gcd.rkt)
 - [Half Interval Method](half-interval-method.rkt)
+- [Make Rational Number](make-rat.rkt)
 - [Newton Sqrt](newton-sqrt.rkt)
 - [Newtons Method](newtons-method.rkt)
 - [Prime Test](prime-test.rkt)
