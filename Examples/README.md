@@ -12,6 +12,7 @@
 - [Fibonacci Sequence](fib.rkt)
 - [Fixed Point of Transform](fixed-point-of-transform.rkt)
 - [Fixed Point](fixed-point.rkt)
+- [Fringe](fringe.rkt)
 - [GCD](gcd.rkt)
 - [Half Interval Method](half-interval-method.rkt)
 - [Make Rational Number](make-rat.rkt)
