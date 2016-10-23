@@ -9,8 +9,10 @@ The source code can be compiled by [Racket](http://www.racket-lang.org/). If not
 
 ## Examples
 
-- [Examples from Book](/Examples)
+- [Examples from the Book](/Examples)
 
 ## Special
 
-Thanks for [huangz1990](https://github.com/huangz1990/SICP-answers) who provides many answers to the exercises of SICP.
+Thanks for [huangz1990/SICP-answers](https://github.com/huangz1990/SICP-answers) which provides many answers to the exercises of SICP.
+
+SICP PDF repository https://github.com/sarabander/sicp-pdf
