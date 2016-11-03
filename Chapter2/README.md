@@ -30,3 +30,6 @@
 - [Exercise  2.41](2_41.rkt)
 - [Exercise  2.42](2_42.rkt)
 - [Exercise  2.43](2_43.rkt)
+- [Exercise  2.53](2_53.rkt)
+- [Exercise  2.54](2_54.rkt)
+- [Exercise  2.55](2_55.rkt)
