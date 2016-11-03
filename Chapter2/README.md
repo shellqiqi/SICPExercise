@@ -29,3 +29,4 @@
 - [Exercise  2.40](2_40.rkt)
 - [Exercise  2.41](2_41.rkt)
 - [Exercise  2.42](2_42.rkt)
+- [Exercise  2.43](2_43.rkt)
