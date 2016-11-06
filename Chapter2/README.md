@@ -33,3 +33,5 @@
 - [Exercise  2.53](2_53.rkt)
 - [Exercise  2.54](2_54.rkt)
 - [Exercise  2.55](2_55.rkt)
+- [Exercise  2.56](2_56.rkt)
+- [Exercise  2.57](2_57.rkt)
