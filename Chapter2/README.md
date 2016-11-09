@@ -38,3 +38,4 @@
 - [Exercise  2.59](2_59.rkt)
 - [Exercise  2.61](2_61_62.rkt)
 - [Exercise  2.62](2_61_62.rkt)
+- [Exercise  2.63](2_63.rkt)

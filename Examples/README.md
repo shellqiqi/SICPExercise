@@ -23,3 +23,4 @@
 - [Prime Test](prime-test.rkt)
 - [Square](square.rkt)
 - [Sum](sum.rkt)
+- [Tree](tree.rkt)
