@@ -21,37 +21,39 @@
 
   (copy-to-list tree '()))
 
-;; tests
+(provide (all-defined-out))
 
-(define tree1 (make-tree 7
-                         (make-tree 3
-                                    (make-tree 1 '() '())
-                                    (make-tree 5 '() '()))
-                         (make-tree 9
-                                    '()
-                                    (make-tree 11 '() '()))))
+;; test
 
-(define tree2 (make-tree 3
-                         (make-tree 1 '() '())
-                         (make-tree 7
-                                    (make-tree 5 '() '())
-                                    (make-tree 9
-                                               '()
-                                               (make-tree 11 '() '())))))
+;(define tree1 (make-tree 7
+;                         (make-tree 3
+;                                    (make-tree 1 '() '())
+;                                    (make-tree 5 '() '()))
+;                         (make-tree 9
+;                                    '()
+;                                    (make-tree 11 '() '()))))
 
-(define tree3 (make-tree 5
-                         (make-tree 3
-                                    (make-tree 1 '() '())
-                                    '())
-                         (make-tree 9
-                                    (make-tree 7 '() '())
-                                    (make-tree 11 '() '()))))
+;(define tree2 (make-tree 3
+;                         (make-tree 1 '() '())
+;                         (make-tree 7
+;                                    (make-tree 5 '() '())
+;                                    (make-tree 9
+;                                               '()
+;                                               (make-tree 11 '() '())))))
+
+;(define tree3 (make-tree 5
+;                         (make-tree 3
+;                                    (make-tree 1 '() '())
+;                                    '())
+;                         (make-tree 9
+;                                    (make-tree 7 '() '())
+;                                    (make-tree 11 '() '()))))
 
 ;; O(n^2) n*append append->n
-(tree->list-1 tree1)
-(tree->list-1 tree2)
-(tree->list-1 tree3)
+;(tree->list-1 tree1)
+;(tree->list-1 tree2)
+;(tree->list-1 tree3)
 ;; O(n) n*cons cons->n
-(tree->list-2 tree1)
-(tree->list-2 tree2)
-(tree->list-2 tree3)
+;(tree->list-2 tree1)
+;(tree->list-2 tree2)
+;(tree->list-2 tree3)
