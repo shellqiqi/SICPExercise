@@ -39,3 +39,4 @@
 - [Exercise  2.61](2_61_62.rkt)
 - [Exercise  2.62](2_61_62.rkt)
 - [Exercise  2.63](2_63.rkt)
+- [Exercise  2.64](2_64.rkt)
