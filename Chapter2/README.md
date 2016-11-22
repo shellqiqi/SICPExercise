@@ -42,3 +42,5 @@
 - [Exercise  2.64](2_64.rkt)
 - [Exercise  2.65](2_65.rkt)
 - [Exercise  2.66](2_66.rkt)
+- [Exercise  2.67](2_67.rkt)
+- [Exercise  2.68](2_68.rkt)

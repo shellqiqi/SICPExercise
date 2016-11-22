@@ -17,6 +17,7 @@
 - [Fringe](fringe.rkt)
 - [GCD](gcd.rkt)
 - [Half Interval Method](half-interval-method.rkt)
+- [Huffman Trees](huffman-trees.rkt)
 - [Make Rational Number](make-rat.rkt)
 - [Newton Sqrt](newton-sqrt.rkt)
 - [Newtons Method](newtons-method.rkt)
