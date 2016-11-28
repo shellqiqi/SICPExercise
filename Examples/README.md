@@ -5,6 +5,7 @@
 - [Accumulate](accumulate.rkt)
 - [Average Damp](average-damp.rkt)
 - [Average](average.rkt)
+- [Complex Number](complex-nember.rkt)
 - [Derivation](derivation.rkt)
 - [Enumerate Interval](enumerate-interval.rkt)
 - [Factorial](factorial.rkt)
