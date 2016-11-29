@@ -1,6 +1,6 @@
 #lang racket
 ;; Example in 2.4.1 & 2.4.2
-;; Complex Number
+;; Complex Number 1
 
 (require "square.rkt")
 
