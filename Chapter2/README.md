@@ -46,3 +46,4 @@
 - [Exercise  2.68](2_68.rkt)
 - [Exercise  2.69](2_69.rkt)
 - [Exercise  2.70](2_70.rkt)
+- [Exercise  2.73](2_73.rkt)
