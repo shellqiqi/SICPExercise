@@ -6,3 +6,5 @@
 - [Exercise  3.2](3_2.rkt)
 - [Exercise  3.3](3_3.rkt)
 - [Exercise  3.4](3_4.rkt)
+- [Exercise  3.5](3_5.rkt)
+- [Exercise  3.6](3_6.rkt)
