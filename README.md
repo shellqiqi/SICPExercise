@@ -6,6 +6,7 @@ The source code can be compiled by [Racket](http://www.racket-lang.org/). If not
 
 - [Chapter 1](/Chapter1)
 - [Chapter 2](/Chapter2)
+- [Chapter 3](/Chapter3)
 
 ## Examples
 
