@@ -1,5 +1,5 @@
 #lang racket
-;; Exercise 3.3
+;; Exercise 3.7
 
 (define (make-account balance password)
   (define (withdraw amount)
@@ -27,3 +27,12 @@
         display-wrong-password-message))
 
   dispatch)
+
+(define (make-joint account password new-password)
+  (lambda (given-password m)
+    (if (eq? given-password new-password)
+        (account password m)
+        "Incorrect password")))
+
+(define jack-acc (make-account 100 'jack-password))
+(define peter-acc (make-joint jack-acc 'jack-password 'peter-password))

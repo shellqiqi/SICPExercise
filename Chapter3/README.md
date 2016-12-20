@@ -8,3 +8,5 @@
 - [Exercise  3.4](3_4.rkt)
 - [Exercise  3.5](3_5.rkt)
 - [Exercise  3.6](3_6.rkt)
+- [Exercise  3.7](3_7.rkt)
+- [Exercise  3.8](3_8.rkt)
