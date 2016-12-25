@@ -10,3 +10,4 @@
 - [Exercise  3.6](3_6.rkt)
 - [Exercise  3.7](3_7.rkt)
 - [Exercise  3.8](3_8.rkt)
+- [Exercise  3.12](3_12.rkt)
