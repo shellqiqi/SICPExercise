@@ -1,5 +1,7 @@
 # [SICP Exercise](https://github.com/shellqiqi/SICPExercise)
 
+In racket, it is unbound using set-car!, set-cdr!, etc. In this case, using language R5RS is a better solution. More details please check [this](http://stackoverflow.com/questions/9475366/set-car-set-cdr-unbound-in-racket).
+
 ## Chapter 3
 
 - [Exercise  3.1](3_1.rkt)
@@ -11,3 +13,4 @@
 - [Exercise  3.7](3_7.rkt)
 - [Exercise  3.8](3_8.rkt)
 - [Exercise  3.12](3_12.rkt)
+- [Exercise  3.13](3_13.rkt)
