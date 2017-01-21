@@ -14,3 +14,5 @@ In racket, it is unbound using set-car!, set-cdr!, etc. In this case, using lang
 - [Exercise  3.8](3_8.rkt)
 - [Exercise  3.12](3_12.rkt)
 - [Exercise  3.13](3_13.rkt)
+- [Exercise  3.17](3_17.rkt)
+- [Exercise  3.18](3_18.rkt)
