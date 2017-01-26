@@ -2,6 +2,7 @@
 
 ## Examples
 
+- [A Simulator for Digital Circuits](a-simulator-for-digital-circuits.rkt)
 - [Accumulate](accumulate.rkt)
 - [Average Damp](average-damp.rkt)
 - [Average](average.rkt)
@@ -21,6 +22,7 @@
 - [Half Interval Method](half-interval-method.rkt)
 - [Huffman Trees](huffman-trees.rkt)
 - [Make Rational Number](make-rat.rkt)
+- [Make Table](make-table.rkt)
 - [Newton Sqrt](newton-sqrt.rkt)
 - [Newtons Method](newtons-method.rkt)
 - [Prime Test](prime-test.rkt)

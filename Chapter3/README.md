@@ -16,3 +16,7 @@ In racket, it is unbound using set-car!, set-cdr!, etc. In this case, using lang
 - [Exercise  3.13](3_13.rkt)
 - [Exercise  3.17](3_17.rkt)
 - [Exercise  3.18](3_18.rkt)
+- [Exercise  3.21](3_21.rkt)
+- [Exercise  3.22](3_22.rkt)
+- [Exercise  3.23](3_23.rkt)
+- [Exercise  3.28](../Examples/a-simulator-for-digital-circuits.rkt)
